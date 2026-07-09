@@ -10996,3 +10996,15 @@ section.resume-section .resume-section-content {
     height: 100%;
     border: none;
 }
+
+
+/* Hide/show navbar on mobile while scrolling */
+@media (max-width: 991.98px) {
+    #sideNav {
+        transition: transform 0.3s ease;
+    }
+
+    #sideNav.nav-hidden {
+        transform: translateY(-100%);
+    }
+}
