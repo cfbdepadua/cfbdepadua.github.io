@@ -10922,23 +10922,6 @@ p.lead {
   }
 }
 
-@media (max-width: 991.98px) {
-    #sideNav {
-        display: flex;
-        flex-wrap: nowrap;
-        align-items: center;
-    }
-
-    #sideNav .navbar-brand {
-        flex: 1 1 auto;
-        min-width: 0;
-    }
-
-    #sideNav .navbar-toggler {
-        flex-shrink: 0;
-    }
-}
-
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
