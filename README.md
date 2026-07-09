@@ -49,4 +49,4 @@ GitHub: https://github.com/cfbdepadua
 
 ---
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio! :D
